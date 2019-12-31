@@ -1,5 +1,9 @@
 # zend-mvc-plugins
 
+> ## Repository abandoned 2019-12-31
+>
+> This repository has moved to laminas/laminas-mvc-plugins.
+
 zend-mvc-plugins is a Composer metapackage that provides a single package for
 installing all official zend-mvc plugins shipped as separate packages under the
 zendframework organization. Currently, these include:
